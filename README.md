@@ -15,3 +15,13 @@ When the application is running, a battery icon will show up in the Windows tray
 
 ## Battery States
 There are 5 states in which the battery level will be read as: Full(![full icon](http://imgur.com/qqGGKhZ.png)), Medium (![medium icon](http://imgur.com/M6TKYrG.png)), Low (![low icon](http://imgur.com/fOUMCxb.png)), or Empty (![empty icon](http://imgur.com/mz1Uk98.png)) Charge; or Not Connected (![not connected icon](http://imgur.com/IyQmFJO.png)).
+
+## Tooltips
+There are two types of messages that could be given when hovering the mouse over the battery icon:
+
+### When the controller is connected
+
+![tooltip when controller connected, medium charge](http://imgur.com/hfl2Ll6.png)
+### When it isn't 
+
+![tooltip when controller not connected](http://imgur.com/BYD5sjR.png)
