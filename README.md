@@ -1,6 +1,6 @@
 # xbox-controller-battery-status
 
-A simple personal project. The app is a WPF solution for Windows which uses the open-source [SlimDX library](https://slimdx.org/) to access the recourses of the Xbox 360 controller, and the [Hardcodet WPF NotifyIcon library](http://www.hardcodet.net/wpf-notifyicon) to allow the app to run with a tray icon.
+A simple personal project. The app is a WPF solution for Windows which uses the open-source [SlimDX library](https://slimdx.org/) to access the recourses of the Xbox 360 controller, and the [Hardcodet WPF NotifyIcon library](http://www.hardcodet.net/wpf-notifyicon) to allow the WPF app to run with a tray icon (as it doesn't natively do so).
 Both of these libraries can be found in "Manage NuGet Packages" from Visual Studio.
 
 Credit goes to [Icon Works](http://www.flaticon.com/authors/icon-works) from http://www.flaticon.com for the battery icon.
